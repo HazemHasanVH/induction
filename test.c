@@ -1,9 +1,8 @@
 #include <stdio.h>
+#include <math.h>
+
+//Start of main function
 int main ()
 {
-	printf("hehehe");
-  //comment added
-  // Comm1
-  // comm2  
-  return 0;
+	These are Lina's changes
 }

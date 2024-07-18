@@ -1,9 +1,18 @@
 #include <stdio.h>
+
+
 int main ()
 {
-	printf("hehehe");
-  //comment added
-  // Comm1
-  // comm2  
-  return 0;
+	int x;
+	/* Hello */
+	prntf("hello");
+	/*ibrahim*/
+	//shokry
+	
+	return 0;
+}
+
+int sum(int a,int b)
+{
+	return a+b;
 }

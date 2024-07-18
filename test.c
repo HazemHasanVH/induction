@@ -1,9 +1,11 @@
 #include <stdio.h>
 int main ()
 {
-	printf("hehehe");
-  //comment added
-  // Comm1
-  // comm2  
+	/* HELLOOOOO
+		ALOOOOOO
+		EHHHHHHHH
+		WEEEEEEEE
+		WAAAAAAAA
+		WOOOOOOOO*/
   return 0;
 }

@@ -1,9 +1,16 @@
 #include <stdio.h>
 int main ()
 {
-	printf("hehehe");
-  //comment added
-  // Comm1
-  // comm2  
+	int arr[5] = {1, 2, 3};
+	int sum = 0;
+	for(int i = 0; i < 3; i++)
+	{
+		sum += arr[i];
+	}
+
+	printf("sum is: %d\n", sum);
+
+
+
   return 0;
 }
